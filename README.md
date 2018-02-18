@@ -9,7 +9,7 @@ This is **not** a fix, it only temporarily resolves the issue, allowing you to a
 You can use Curl to download the programs from this repository, or Git Clone: <br /> 
 _curl -o program.py https://github.com/Elliot-Potts/MBP-2011-AMD-GPU-Quickfix/main.py_
 or <br />
-_https://github.com/Elliot-Potts/MBP-2011-AMD-GPU-Quickfix.git_
+_git clone https://github.com/Elliot-Potts/MBP-2011-AMD-GPU-Quickfix.git_
 
 then see below on usage options.
 
