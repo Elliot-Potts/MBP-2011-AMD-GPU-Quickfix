@@ -20,9 +20,3 @@ Downloading and running the program was described above. Use the following infor
 **Parameters** <br /> <br />
 _python main.py -move_ <br />
 This will apply the quickfix, which means Intel Integrated graphics will now be forced.
-
-<br />
-<i>python main.py -undo</i>
-<br />
-This will undo the quickfix. This will move the framework files back where they belong, undoing the patch.
-
