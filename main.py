@@ -1,4 +1,6 @@
 # Program to force Intel Integrated Graphics on Macbook Pro 2011, fixing the GPU issues temporarily
+#   This is a short project, but I made it when I was attempting fixes for my Macbook Pro 2011 a couple years ago.
+#       I saw the mockup on my wall and wanted to work on it. Have a good day.
 
 import os
 import sys
